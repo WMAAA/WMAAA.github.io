@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://WMAAA.github.io/sitemap.xml
