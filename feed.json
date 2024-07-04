@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "万古长夜温剑神",
     "description": "",
-    "home_page_url": "https://WMAAA.github.io",
-    "feed_url": "https://WMAAA.github.io/feed.json",
+    "home_page_url": "https://github.com/WMAAA/WMAAA.github.io",
+    "feed_url": "https://github.com/WMAAA/WMAAA.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "wenming"
     },
     "items": [
         {
-            "id": "https://WMAAA.github.io/sha-sha-sha.html",
-            "url": "https://WMAAA.github.io/sha-sha-sha.html",
+            "id": "https://github.com/WMAAA/WMAAA.github.io/sha-sha-sha.html",
+            "url": "https://github.com/WMAAA/WMAAA.github.io/sha-sha-sha.html",
             "title": "杀杀杀",
             "author": {
                 "name": "wenming"
