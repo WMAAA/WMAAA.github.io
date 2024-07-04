@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>万古长夜温剑神</title>
-    <link href="https://github.com/WMAAA/WMAAA.github.io/feed.xml" rel="self" />
-    <link href="https://github.com/WMAAA/WMAAA.github.io" />
+    <link href="https://WMAAA.github.io/feed.xml" rel="self" />
+    <link href="https://WMAAA.github.io" />
     <updated>2024-07-04T21:43:44+08:00</updated>
     <author>
         <name>wenming</name>
     </author>
-    <id>https://github.com/WMAAA/WMAAA.github.io</id>
+    <id>https://WMAAA.github.io</id>
 
     <entry>
         <title>杀杀杀</title>
         <author>
             <name>wenming</name>
         </author>
-        <link href="https://github.com/WMAAA/WMAAA.github.io/sha-sha-sha.html"/>
-        <id>https://github.com/WMAAA/WMAAA.github.io/sha-sha-sha.html</id>
+        <link href="https://WMAAA.github.io/sha-sha-sha.html"/>
+        <id>https://WMAAA.github.io/sha-sha-sha.html</id>
 
         <updated>2024-07-04T21:43:44+08:00</updated>
             <summary></summary>
